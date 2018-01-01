@@ -2,7 +2,7 @@
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 const int ldr1 = A0; 
 int sensorvalue1=0;
-const int ldr2=A1;
+const int ldr2=A3;
 int sensorvalue2=0;
 const int ldr3=A5;
 int sensorvalue3=0;
